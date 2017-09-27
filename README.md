@@ -1,4 +1,4 @@
 # pentamino
 [S3 project]Pentamino game
 
-//JEU PENTAMINO
+JEU Pentamino sous la forme d'un tetris. 
