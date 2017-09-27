@@ -1,4 +1,4 @@
-INCLUDE <stdbool.h>
+#include <stdbool.h>
 
 typedef 
 struct piece
